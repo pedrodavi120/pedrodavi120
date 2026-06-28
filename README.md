@@ -80,12 +80,6 @@ Se quiser trocar uma ideia sobre tecnologia ou oportunidades de projetos, entre 
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
 ### 🚀 Projetos em Destaque
 
 Aqui estão algumas das principais soluções de ponta a ponta que desenvolvi em cenários reais, acadêmicos e corporativos:
