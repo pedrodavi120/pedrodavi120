@@ -109,7 +109,7 @@ Aqui estão algumas das principais soluções de ponta a ponta que desenvolvi em
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌾 <a href="https://zeloapp-gestao.web.app/" target="_blank">Zelo: Gestão & Dashboard Agrícola</a></h4>
+      <h4>🌾 <a href="https://zelo.voidstudio.com.br/" target="_blank">Zelo: Gestão & Dashboard Agrícola</a></h4>
       <p>Sistema de gestão digital robusto e inteligência de dados desenvolvido para a <strong>Escola Agrícola de Jundiaí (EAJ - UFRN)</strong>. O módulo gerencial agrícola está sendo estruturado para apresentação estratégica no evento EliAgro, na convenção tecnológica <strong>GO!RN</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
